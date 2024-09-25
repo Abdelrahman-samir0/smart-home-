@@ -1,3 +1,4 @@
+![IMG_6832](https://github.com/user-attachments/assets/efb1f750-c7e9-4606-997c-4385db00b7a5)
 # smart-home-
 A smart home system designed to monitor and control actuators according to the measurements recorded by different sensors to sustain the required garden environment, while also implementing a password-based authentication mechanism to ensure authorized access.
 
